@@ -20,11 +20,7 @@ def main() -> None:
         with open(file_name, "r") as file:
             # Read the contents of the file or perform any other actions
             content = file.read()
-            output.write("\n# ")
-            output.write(os.path.basename(file_name))
-            output.write("\n")
-            output.write(content)
-            output.write("\n")
+            output.write("\n# "+os.path.basename(file_name)+"\n"+content+"\n")
     output.close()
 
     # zip it
