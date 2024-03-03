@@ -2,12 +2,12 @@ import os
 import glob
 from zipfile import ZipFile
 
-ASSIGNEMENT = "Assignment1"
+ASSIGNEMENT: str = "Assignment1"
 
 
 def main() -> None:
     # get filenames starting with ex
-    file_names = glob.glob(f"{os.path.join(os.getcwd(),ASSIGNEMENT)}/ex*")
+    file_names: list[str] = glob.glob(f"{os.path.join(os.getcwd(),ASSIGNEMENT)}/ex*")
     # create the name according to their convention
     target_file = f"{ASSIGNEMENT}/FlückigerManuel_PalapurackalDeepak_{ASSIGNEMENT}.py"
 
