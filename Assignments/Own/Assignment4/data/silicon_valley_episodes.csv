@@ -1,0 +1,54 @@
+season,episode_num,episode_num_overall,title,directed_by,written_by,original_air_date,us_viewers
+1,1,1,Minimum Viable Product,Mike Judge,Mike Judge & John Altschuler & Dave Krinsky,06.04.14,1980000
+1,2,2,The Cap Table,Mike Judge,Carson Mell,13.04.14,1690000
+1,3,3,Articles of Incorporation,Tricia Brock,Matteo Borghese & Rob Turbovsky,20.04.14,1620000
+1,4,4,Fiduciary Duties,Maggie Carey,Ron Weiner,27.04.14,1550000
+1,5,5,Signaling Risk,Alec Berg,Jessica Gao,04.05.14,1820000
+1,6,6,Third Party Insourcing,Alec Berg,Dan O'Keefe,11.05.14,1690000
+1,7,7,Proof of Concept,Mike Judge,Clay Tarver,18.05.14,1680000
+1,8,8,Optimal Tip-To-Tip Efficiency,Mike Judge,Alec Berg,01.06.14,1740000
+2,1,9,Sand Hill Shuffle,Mike Judge,Clay Tarver,12.04.15,2130000
+2,2,10,Runaway Devaluation,Mike Judge,Ron Weiner,19.04.15,1730000
+2,3,11,Bad Money,Alec Berg,Alec Berg,26.04.15,1940000
+2,4,12,The Lady,Alec Berg,Carson Mell,03.05.15,1750000
+2,5,13,Server Space,Mike Judge,Sonny Lee,10.05.15,1530000
+2,6,14,Homicide,Mike Judge,Carrie Kemper,17.05.15,1540000
+2,7,15,Adult Content,Alec Berg,Amy Aniobi,24.05.15,1600000
+2,8,16,White Hat/Black Hat,Alec Berg,Daniel Lyons,31.05.15,1780000
+2,9,17,Binding Arbitration,Mike Judge,Dan O'Keefe,07.06.15,1870000
+2,10,18,Two Days of the Condor,Alec Berg,Alec Berg,14.06.15,2110000
+3,1,19,Founder Friendly,Mike Judge,Dan O'Keefe,24.04.16,1860000
+3,2,20,Two in the Box,Mike Judge,Ron Weiner,01.05.16,1720000
+3,3,21,Meinertzhagen's Haversack,Charlie McDowell,Adam Countee,08.05.16,1690000
+3,4,22,Maleant Data Systems Solutions,Charlie McDowell,Donick Cary,15.05.16,1890000
+3,5,23,The Empty Chair,Eric Appel,Megan Amram,22.05.16,1710000
+3,6,24,Bachmanity Insanity,Eric Appel,Carson Mell,29.05.16,1620000
+3,7,25,To Build a Better Beta,Jamie Babbit,John Levenstein,05.06.16,1700000
+3,8,26,Bachman's Earnings Over-Ride,Jamie Babbit,Carrie Kemper,12.06.16,1640000
+3,9,27,Daily Active Users,Alec Berg,Clay Tarver,19.06.16,1630000
+3,10,28,The Uptick,Alec Berg,Alec Berg,26.06.16,2040000
+4,1,29,Success Failure,Mike Judge,Alec Berg,23.04.17,867000
+4,2,30,Terms of Service,Mike Judge,Clay Tarver,30.04.17,762000
+4,3,31,Intellectual Property,Jamie Babbit,Carrie Kemper,07.05.17,774000
+4,4,32,Teambuilding Exercise,Jamie Babbit,Meghan Pleticha,14.05.17,859000
+4,5,33,The Blood Boy,Tim Roche,Adam Countee,21.05.17,844000
+4,6,34,Customer Service,Clay Tarver,Graham Wagner & Shawn Boxe,28.05.17,728000
+4,7,35,The Patent Troll,Jamie Babbit,Andrew Law,04.06.17,862000
+4,8,36,The Keenan Vortex,Jamie Babbit,Graham Wagner & Rachele Lynn,11.06.17,798000
+4,9,37,Hooli-Con,Mike Judge,Chris Provenzano,18.06.17,840000
+4,10,38,Server Error,Mike Judge,Dan O'Keefe,25.06.17,790000
+5,1,39,Grow Fast or Die Slow,Mike Judge,Ron Weiner,25.03.18,698000
+5,2,40,Reorientation,Mike Judge,Carson Mell,01.04.18,592000
+5,3,41,Chief Operating Officer,Jamie Babbit,Carrie Kemper,08.04.18,624000
+5,4,42,Tech Evangelist,Jamie Babbit,Josh Lieb,15.04.18,610000
+5,5,43,Facial Recognition,Gillian Robespierre,Graham Wagner,22.04.18,858000
+5,6,44,Artificial Emotional Intelligence,Matt Ross,Anthony King,29.04.18,1020000
+5,7,45,Initial Coin Offering,Mike Judge,Clay Tarver,06.05.18,853000
+5,8,46,Fifty-One Percent,Alec Berg,Alec Berg,13.05.18,707000
+6,1,47,Artificial Lack of Intelligence,Mike Judge,Ron Weiner,27.10.19,448000
+6,2,48,Blood Money,Mike Judge,Carson Mell,03.11.19,383000
+6,3,49,Hooli Smokes!,Liza Johnson,Sarah Walker,10.11.19,459000
+6,4,50,Maximizing Alphaness,Liza Johnson,Daisy Gardner,17.11.19,452000
+6,5,51,Tethics,Pete Chatmon,Lew Morton,24.11.19,311000
+6,6,52,RussFest,Matt Ross,Carrie Kemper,01.12.19,414000
+6,7,53,Exit Event,Alec Berg,Alec Berg,08.12.19,454000

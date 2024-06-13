@@ -1,0 +1,8 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+pylint
+unittest
+seaborn
